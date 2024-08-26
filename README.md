@@ -1,2 +1,2 @@
 ## eLibrary ASP.ENT Web API
-- An API project
+- An ASP.NET web api project
